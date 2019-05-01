@@ -45,7 +45,7 @@
      color: #11999E;
      font-family: 'Montserrat', sans-serif;
      margin: 10px 20px;
-     text-decoration: nome;
+     text-decoration: none;
      
 
  }
@@ -54,7 +54,7 @@
  }
 
  .top-container {
-     background-color: #6173d6;
+     background-color: #b4bceb;
      position: relative;
      padding: 100px;
 
@@ -67,7 +67,7 @@
 
  .bottom-container {
      background-color: #66BFBF;
-     padding: 50px 0 20px;
+     padding: 50px 0 50px 0;
  }
 
  .pro {
